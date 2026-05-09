@@ -1,2 +1,5 @@
-# Meat-corner-
-यह ऐप और वेबसाइट पर कोई भी मिट विक्रेता अपनी प्रोफाइल बनाकर अपने मीट का व्यापार ऑनलाइन कर सकता है लोग उसको देखकर उससे जुड़ सकते हैं और मीट की खरीद और बिक्री दोनों कर सकते हैं और बिक्री दोनों कर सकते हैं
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
